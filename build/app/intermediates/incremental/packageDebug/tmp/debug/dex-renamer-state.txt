@@ -1,0 +1,4 @@
+#Sun Nov 03 22:23:54 CET 2019
+base.0=/home/lmd/AndroidStudioProjects/app_m/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
